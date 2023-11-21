@@ -1,0 +1,4 @@
+- npm init -y
+- npx tsc init
+- tsconfig.json >     "outDir": "./Dest",
+- npm run
